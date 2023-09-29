@@ -34,5 +34,41 @@
       "Y": "Do",
       "Z": "Do#"
     }
+  },
+  {
+    "id": "dictionnaire-desastres-2",
+    "label": "dictionnaire desastres 2",
+    "case-sensitive": false,
+    "default": "",
+    "matches": {
+      " ": " ",
+      "\n":"\n",
+      "A": "Mi",
+      "B": "Do#",
+      "C": "Ré",
+      "D": "Ré#",
+      "E": "Mi",
+      "F": "Fa",
+      "G": "Fa#",
+      "H": "Sol",
+      "I": "Sol#",
+      "J": "La",
+      "K": "La#",
+      "L": "Si",
+      "M": "Do",
+      "N": "Do#",
+      "O": "Ré",
+      "P": "Ré#",
+      "Q": "Mi",
+      "R": "Fa",
+      "S": "Fa#",
+      "T": "Sol",
+      "U": "Sol#",
+      "V": "La",
+      "W": "La#",
+      "X": "Si",
+      "Y": "Do",
+      "Z": "Do#"
+    }
   }
 ]
