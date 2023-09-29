@@ -53,8 +53,6 @@ function getChordsDict(content) {
       if(note != "")
         notes.push(note);
     }
-    // Set = remove duplicate notes
-    notes = Array.from(new Set(notes));
     chords[word] = notes.join("-");
   }
   return chords;
